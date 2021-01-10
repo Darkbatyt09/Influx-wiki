@@ -3,12 +3,21 @@
 ## about influx
  Influx is a simple discord js bot designed by queen and old! Make sure to join our [support server](https://discord.gg/E4zGEUaGfM) for any queires and help! You can contact both of them in the server! 
 
-## General information 
-* Bot name:- Influx 
-* Bot api name:- InFluX™ | ØFxIS
-* Bot version:- `1.0.0.7.80` 
-* Bot permission:- `adminstration` <required>
-* Bot category:- moderation,economy,fun,utility,almost have all features
-* Bot owner:- [DARKLØVE](https://discord.gg/E4zGEUaGfM)
-* Bot developers:- [QUEEN™ AND OLD](https://discord.gg/E4zGEUaGfM)
+##links to jump
+1. [Getting started](#)
 
+2. [Setting up influx](#)
+
+3. [Moderation commands](#) **MUST TO CHECKOUT**
+
+4. [Setting commands](#) **MUST TO CHECKOUT**
+
+5. [Dynamic commands](#) 
+
+6. [misc commands](#) **need to check**
+
+7. [Ticket System Commands](#) 
+
+8. [Search commands](#) 
+
+9. [fun commands](#)
