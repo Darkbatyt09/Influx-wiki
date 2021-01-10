@@ -3,7 +3,11 @@
 ## about influx
  Influx is a simple discord js bot designed by queen and old! Make sure to join our [support server](https://discord.gg/E4zGEUaGfM) for any queires and help! You can contact both of them in the server! 
 
-##links to jump
+
+## general information
+
+* 
+## links to jump
 1. [Getting started](#)
 
 2. [Setting up influx](#)
