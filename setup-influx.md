@@ -6,5 +6,7 @@ Setup is easy first of all you have to read out [getting-started.md](getting-sta
 
 ## simple commands
 
-Name | cmd | function 
-Help | `!help` | see all commands
+S.No. | Name | cmd | function 
+1 | Help | `!help` | see all commands
+2 | help category | `!help [category]` | see command of a category
+
