@@ -16,7 +16,7 @@
 
 ## links to jump
 
-1. [Getting started](#)
+1. [Getting started](https://darkbatyt09.github.io/Influx-wiki/getting-started)
 
 2. [Setting up influx](#)
 
