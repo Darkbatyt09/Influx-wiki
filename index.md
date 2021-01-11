@@ -8,7 +8,7 @@
 
 ## general information
 * Bot name:- `Influx`
-* Bot dc api name:- `InFluX™ | ØFXIS
+* Bot dc api name:- `InFluX™ | ØFXIS`
 * Bot version:- 1.0.0.9
 * Bot default prefix:- `!` [**customizable**]
 * Bot permission(s):- `administrator`
