@@ -1,3 +1,3 @@
 # Getting started 
-> [< go back](#) 
-> [jump to next>](#)
+> * [< go back](#) 
+> * [jump to next>](#)
