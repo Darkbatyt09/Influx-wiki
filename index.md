@@ -4,7 +4,7 @@
  Influx is a simple discord js bot designed by queen and old! Make sure to join our [support server](https://discord.gg/E4zGEUaGfM) for any queires and help! You can contact both of them in the server! 
 
 ## bot links
-1. Bot invite link **[click here](#)** to get
+1. Bot invite link **[click here](https://discord.com/oauth2/authorize?client_id=792965362588713001&scope=bot&permissions=8)** to get
 
 ## general information
 * Bot name:- `Influx`
