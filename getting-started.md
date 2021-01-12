@@ -1,6 +1,6 @@
 # Getting started 
-> * [< go back](#) 
-> * [jump to next>](#)
+> * [< go back](index.md) 
+> * [jump to next>](setup-influx.md)
 
 
 
@@ -16,6 +16,6 @@
 > `adminstrator`, nothing else! Coz this contain all perms 
 
 ## set-up influx 
-This is on second page of the wiki. [Click here](#) to jump to that page!
+This is on second page of the wiki. [Click here](setup-influx.md) to jump to that page!
 
-©InFluX™ | ØFxIS
+©InFluX™ ØFxIS
