@@ -18,9 +18,9 @@
 
 1. [Getting started](https://darkbatyt09.github.io/Influx-wiki/getting-started)
 
-2. [Setting up influx](#)
+2. [Setting up influx](setup-influx.md)
 
-3. [Moderation commands](#) **MUST TO CHECKOUT**
+3. [Moderation commands](moderation-cmnds.md) **MUST TO CHECKOUT**
 
 4. [Setting commands](#) **MUST TO CHECKOUT**
 
